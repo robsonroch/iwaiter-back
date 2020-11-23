@@ -1,4 +1,4 @@
-package br.com.robson.waiterback.entity;
+package br.com.robson.waiterback.entities;
 
 import javax.persistence.Entity;
 
